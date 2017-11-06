@@ -9,4 +9,4 @@ Creating a new branch is quick !!!
 just do it without affect other people. 
 
 
-new branch for goods version.
+new branch for goods version.  One price snapshot should keep goods version.
