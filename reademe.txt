@@ -10,3 +10,6 @@ just do it without affect other people.
 
 
 new branch for goods version.  One price snapshot should keep goods version.
+
+
+this is a v4 car quote
